@@ -808,7 +808,7 @@ Bulid过程可以分解为4个步骤:预处理(Prepressing), 编译(Compilation)
 
 数据库事务(Database Transaction) ，是指作为单个逻辑工作单元执行的一系列操作，要么完全地执行，要么完全地不执行。
 
-## 2 数据库索引
+## 2 数据库索引   不会必看
 
 推荐: http://tech.meituan.com/mysql-index.html
 
@@ -817,10 +817,10 @@ Bulid过程可以分解为4个步骤:预处理(Prepressing), 编译(Compilation)
 聚集索引,非聚集索引,B-Tree,B+Tree,最左前缀原理
 
 
-## 3 Redis原理
+## 3 Redis原理   不会必看
 
 
-## 4 乐观锁和悲观锁
+## 4 乐观锁和悲观锁   不会必看
 
 悲观锁：假定会发生并发冲突，屏蔽一切可能违反数据完整性的操作
 
